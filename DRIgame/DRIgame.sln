@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8910ACC0-07AB-03F3-0825-CCCAD7684117}") = "DRIgame", "Assembly-CSharp.csproj", "{B5484F3A-2442-9FEB-932D-205813742A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5484F3A-2442-9FEB-932D-205813742A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5484F3A-2442-9FEB-932D-205813742A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5484F3A-2442-9FEB-932D-205813742A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5484F3A-2442-9FEB-932D-205813742A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
